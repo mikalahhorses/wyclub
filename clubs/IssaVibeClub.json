@@ -1,11 +1,11 @@
 {
-  "name": "Issa Vibe Club",
-  "imgsrc": "IssaVibe.jpg",
-  "description": "Issa Vibe is a club that provides students with a safe environment to discuss and unpact mental health related topics. It also provides healthy coping mechanisms that are often not taught.",
+  "name": "Good Vibes",
+  "imgsrc": "GoodVibes.jpg",
+  "description": "Good Vibes is a club that provides students with a safe environment to discuss and unpact mental health related topics. It also provides healthy coping mechanisms that are often not taught. We also create art installations based on mental health awareness and support. These help the student body become more epathic to mental health and it gives purpose to pain.",
   "officers": [
     {
-      "position": "President",
-      "name": "rborden@cps.edu"
+      "position": "Presidents",
+      "name": "rborden@cps.edu & mtrout@cps.edu"
     
     },
     {
@@ -16,7 +16,7 @@
   "announcements": [
     {
       "title": "Meetings",
-      "description": "Club meetings take place every other Friday 3:30 after school in room 312."
+      "description": "Club meetings take place the 2nd and 4th Mondays 3:30 after school in room 179."
     }
   ],
   "links": [
